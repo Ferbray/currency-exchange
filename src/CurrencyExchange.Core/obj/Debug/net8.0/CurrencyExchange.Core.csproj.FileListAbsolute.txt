@@ -1,0 +1,11 @@
+C:\Users\ferbr\GIS\currency-exchange\src\CurrencyExchange.Core\bin\Debug\net8.0\CurrencyExchange.Core.deps.json
+C:\Users\ferbr\GIS\currency-exchange\src\CurrencyExchange.Core\bin\Debug\net8.0\CurrencyExchange.Core.dll
+C:\Users\ferbr\GIS\currency-exchange\src\CurrencyExchange.Core\bin\Debug\net8.0\CurrencyExchange.Core.pdb
+C:\Users\ferbr\GIS\currency-exchange\src\CurrencyExchange.Core\obj\Debug\net8.0\CurrencyExchange.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferbr\GIS\currency-exchange\src\CurrencyExchange.Core\obj\Debug\net8.0\CurrencyExchange.Core.AssemblyInfoInputs.cache
+C:\Users\ferbr\GIS\currency-exchange\src\CurrencyExchange.Core\obj\Debug\net8.0\CurrencyExchange.Core.AssemblyInfo.cs
+C:\Users\ferbr\GIS\currency-exchange\src\CurrencyExchange.Core\obj\Debug\net8.0\CurrencyExchange.Core.csproj.CoreCompileInputs.cache
+C:\Users\ferbr\GIS\currency-exchange\src\CurrencyExchange.Core\obj\Debug\net8.0\CurrencyExchange.Core.dll
+C:\Users\ferbr\GIS\currency-exchange\src\CurrencyExchange.Core\obj\Debug\net8.0\refint\CurrencyExchange.Core.dll
+C:\Users\ferbr\GIS\currency-exchange\src\CurrencyExchange.Core\obj\Debug\net8.0\CurrencyExchange.Core.pdb
+C:\Users\ferbr\GIS\currency-exchange\src\CurrencyExchange.Core\obj\Debug\net8.0\ref\CurrencyExchange.Core.dll
